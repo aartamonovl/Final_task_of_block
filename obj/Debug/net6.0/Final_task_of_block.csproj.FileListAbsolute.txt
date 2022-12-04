@@ -1,0 +1,15 @@
+D:\GB\Новая папка\Final_task_of_block\bin\Debug\net6.0\Final_task_of_block.exe
+D:\GB\Новая папка\Final_task_of_block\bin\Debug\net6.0\Final_task_of_block.deps.json
+D:\GB\Новая папка\Final_task_of_block\bin\Debug\net6.0\Final_task_of_block.runtimeconfig.json
+D:\GB\Новая папка\Final_task_of_block\bin\Debug\net6.0\Final_task_of_block.dll
+D:\GB\Новая папка\Final_task_of_block\bin\Debug\net6.0\Final_task_of_block.pdb
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.csproj.AssemblyReference.cache
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.AssemblyInfoInputs.cache
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.AssemblyInfo.cs
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.csproj.CoreCompileInputs.cache
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.dll
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\refint\Final_task_of_block.dll
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.pdb
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\Final_task_of_block.genruntimeconfig.cache
+D:\GB\Новая папка\Final_task_of_block\obj\Debug\net6.0\ref\Final_task_of_block.dll
